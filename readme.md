@@ -1,5 +1,5 @@
-
-# React Native Credit Card Input
+# This repository is the copy of sbycrosz [sbycrosz](https://github.com/sbycrosz/react-native-credit-card-input)
+# React Native Credit Card Input for PrixPay
 Easy (and good looking) credit-card input for your React Native Project 💳 💳
 
 <p align="center">
